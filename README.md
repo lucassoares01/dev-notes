@@ -46,12 +46,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚀 Como executar o projeto
 
--   Você pode testar o projeto aqui: **[]()**
+-   Você pode testar o projeto aqui: **[DevNotes](https://devnotesweb.vercel.app/)**
 
 ```bash
 
 # Clone este repositório
-$ git clone 
+$ git clone https://github.com/lucassoares01/dev-notes
 
 ```
 
